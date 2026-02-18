@@ -3,8 +3,6 @@
 A full-stack flashcard web application built with **Django REST Framework** and **React**.  
 The app allows users to create image-based flashcards, organize them with tags, and review cards by tag.
 
-This project was built as a learning-focused MVP with an emphasis on clean data modeling, RESTful APIs, and a simple but functional frontend.
-
 ---
 
 ## Features

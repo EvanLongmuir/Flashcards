@@ -32,6 +32,7 @@ The app allows users to create image-based flashcards, organize them with tags, 
 ---
 
 ## Project Structure
+
 flashcards/
 ├── backend/ # Django backend
 │ ├── cards/

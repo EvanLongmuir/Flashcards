@@ -31,20 +31,6 @@ The app allows users to create image-based flashcards, organize them with tags, 
 
 ---
 
-## Project Structure
-
-flashcards/
-├── backend/ # Django backend
-│ ├── cards/
-│ ├── config/
-│ └── manage.py
-├── frontend/ # React frontend
-│ ├── src/
-│ └── index.html
-└── README.md
-
----
-
 ## Getting Started
 
 ### Backend

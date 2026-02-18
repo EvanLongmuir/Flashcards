@@ -1,0 +1,39 @@
+# =====================
+# Python / Django
+# =====================
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Django media & static
+media/
+staticfiles/
+
+# Django secrets
+.env
+
+# =====================
+# Node / React
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+dist/
+.vite/
+
+# =====================
+# OS / Editor
+# =====================
+.DS_Store
+mise.toml
